@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0229-majority-element-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kpilsaini12/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Counting
